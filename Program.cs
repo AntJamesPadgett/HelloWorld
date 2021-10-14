@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Im Still Trying to Grasp Things!");
+            Console.WriteLine("Im Still Trying to Grasp Things, No really!");
         }
     }
 }
